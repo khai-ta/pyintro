@@ -27,11 +27,6 @@ A simple command-line implementation of Rock Paper Scissors where you play again
 - Score tracking
 - Option to play multiple rounds
 
-## Requirements
-
-- Python 3.x
-- Tkinter (usually comes with Python installation)
-
 ## How to Run
 
 Each game can be run independently:
@@ -47,18 +42,7 @@ python tictactoe.py
 python rps.py
 ```
 
-## Controls
+## Requirements
 
-### Snake Game
-- Use arrow keys or WASD to control the snake's direction
-- Try to eat the red food to grow longer
-- Avoid hitting the walls or yourself
-
-### Tic Tac Toe
-- Click on any empty square to place your mark (X or O)
-- Players take turns automatically
-- Click the "restart" button to start a new game
-
-### Rock Paper Scissors
-- Type your choice when prompted (rock, paper, or scissors)
-- Follow the on-screen instructions to play again or quit
+- Python 3.x
+- Tkinter (usually comes with Python installation)
